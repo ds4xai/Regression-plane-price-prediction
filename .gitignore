@@ -1,0 +1,8 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore the "test" directory
+/test
+
+# Ignore files
+**/*.ipynb_checkpoints
